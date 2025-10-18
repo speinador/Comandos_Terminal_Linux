@@ -1,7 +1,7 @@
 # 🐧 Comandos de Terminal Linux
 
-Guía completa de los comandos más útiles del **terminal de Linux**, organizada por categorías.  
-Incluye comandos básicos, de administración, red, seguridad, y más. Ideal para estudiantes, técnicos y profesionales IT.
+Guía de los comandos más útiles del **terminal de Linux**, organizada por categorías.  
+Incluye comandos básicos, de administración, red, seguridad, y más.
 
 ---
 
@@ -187,13 +187,16 @@ Incluye comandos básicos, de administración, red, seguridad, y más. Ideal par
 
 ---
 
-## 🧾 Créditos
+## 🧑‍🏫 Autor
 
-📘 **Autor:** Sebastián Peinador  
-👨‍🏫 **Profesor de Seguridad Informática**  
-🏥 **Jefe de Soporte y Sistemas - Hospital José M. Penna (CABA)**  
-📍 **Argentina**
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
 
 ---
 
-> 💡 *Este documento puede usarse libremente con fines educativos o de referencia técnica. Creado para estudiantes y profesionales de IT que deseen dominar el uso del terminal Linux.*
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
