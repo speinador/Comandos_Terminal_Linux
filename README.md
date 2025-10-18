@@ -3,6 +3,8 @@
 Guía de los comandos más útiles del **terminal de Linux**, organizada por categorías.  
 Incluye comandos básicos, de administración, red, seguridad, y más.
 
+![Texto alternativo](https://github.com/speinador/Comandos_Terminal_Linux/blob/main/Terminal_IMG.png)
+
 ---
 
 ## 📚 Índice
